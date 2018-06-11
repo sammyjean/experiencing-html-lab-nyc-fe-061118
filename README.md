@@ -1,39 +1,4 @@
-# Experiencing HTML Lab
 
-## Problem Statement
-
-How do we go about writing text for the web? How is that different from the
-text that we write in a text file?  We're going to experience for ourselves how
-these things are different in this lab.
-
-You don't need any prior knowledge of HTML for this lab. We're going to tell
-you what to type. Don't focus on specific commands or taking notes. Everything
-will be covered thoroughly later. Instead, the goal of this exercise is to feel
-the joy of editing a file and seeing the change "out there."
-
-## Objectives
-
-1. Distinguish _markup_ from _content_
-2. Define the difference between _source text_ and _rendered text_
-3. Use HTML tags to change the display of _content_ by providing _markup_
-
-**NOTE:** We don't expect you to know _markup_, _content_, _source text_, or
-_rendered text_ yet. We'll be defining them in this lab.
-
-## Distinguish _markup_ from _content_
-
-### Create a Text File With A List
-
-Launch the Learn IDE (use the Open IDE button) and create a new file called
-`my_list.txt`. The file extension suggests to humans and operating systems
-that it contains text.
-
-Think of a collection of things united by theme: Pok&eacute;mon, Old-school
-MC's, Prime Ministers of New Zealand, Magical Beasts and Where to Find Them,
-etc.
-
-Now write in a few of these in your file. Here's one from us (songs in the
-English post-punk genre).
 
 ```text
 "Love Will Tear Us Apart"
